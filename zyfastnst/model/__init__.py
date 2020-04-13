@@ -1,0 +1,1 @@
+from zyfastnst.model.transformer_net import TransformerNet
